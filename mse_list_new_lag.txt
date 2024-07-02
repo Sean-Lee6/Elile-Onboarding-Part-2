@@ -1,0 +1,6 @@
+LSTM Train MSE  587810.9502096392
+LSTM Valid MSE  438273.18176014145
+LSTM Test MSE  395946.4731896498
+(Optional) Optimal parameters ['normal', 50, 16, 'adam']
+Grid Search Optimal Train Error 482343.7087653852
+Grid Search Optimal Test Error 271932.7353494599

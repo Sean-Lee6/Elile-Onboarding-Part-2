@@ -1,0 +1,9 @@
+LSTM Train MSE  551077.6690894169
+LSTM Valid MSE  377717.14638681407
+LSTM Test MSE  338101.65467025136
+Adaboost LSTM Train MSE 13481666400.674421
+Adaboost LSTM Valid MSE 1488386225.8919282
+Adaboost LSTM Test MSE 1692914177.2469897
+(Optional) Optimal parameters ['glorot_uniform', 100, 16, 'rmsprop']
+Grid Search Optimal Train Error 460980.6485784626
+Grid Search Optimal Test Error 343674.47067562304

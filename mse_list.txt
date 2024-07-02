@@ -1,0 +1,9 @@
+Vanilla LSTM Train MSE 537911.0497106075
+Vanilla LSTM Valid MSE 480173.31126397225
+Vanilla LSTM Test MSE 537914.4461906437
+Adaboost LSTM Train MSE 13378890374.101149
+Adaboost LSTM Valid MSE 1669263501.234372
+Adaboost LSTM Test MSE 1581152987.138977
+(Optional) Optimal parameters ['normal', 150, 16, 'rmsprop']
+Grid Search Optimal Train Error 508006.3148485781
+Grid Seaerch Optimal Test Error 517839.8971436984
