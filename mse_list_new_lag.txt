@@ -1,6 +1,7 @@
-LSTM Train MSE  587810.9502096392
-LSTM Valid MSE  438273.18176014145
-LSTM Test MSE  395946.4731896498
-(Optional) Optimal parameters ['normal', 50, 16, 'adam']
+LSTM Train MSE 548390.0449724594
+LSTM Valid MSE 380484.8380700148
+LSTM Test MSE 323886.5179273499
+(Optional) Optimal parameters ['normal', 50, 16, 'adam'] (Output above is using batch_size = 1)
 Grid Search Optimal Train Error 482343.7087653852
 Grid Search Optimal Test Error 271932.7353494599
+
